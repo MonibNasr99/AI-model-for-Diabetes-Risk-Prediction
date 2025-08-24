@@ -20,7 +20,7 @@ https://colab.research.google.com/drive/1vFRVU7enYHCP1qnsIXpSZpktLb0qU-e2?usp=sh
 	
  <img width="939" height="732" alt="image" src="https://github.com/user-attachments/assets/5f8a63c6-ae20-4483-9259-0b651e5d5949" />
  
-	Model	Accuracy	F1 Score	ROC AUC
+Model	Accuracy	F1 Score	ROC AUC
  
 0	Logistic Regression	0.835443	0.745098	0.887518
 
