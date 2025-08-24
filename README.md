@@ -21,10 +21,15 @@ https://colab.research.google.com/drive/1vFRVU7enYHCP1qnsIXpSZpktLb0qU-e2?usp=sh
  <img width="939" height="732" alt="image" src="https://github.com/user-attachments/assets/5f8a63c6-ae20-4483-9259-0b651e5d5949" />
  
 	Model	Accuracy	F1 Score	ROC AUC
+ 
 0	Logistic Regression	0.835443	0.745098	0.887518
+
 1	Random Forest	0.797468	0.680000	0.862845
+
 2	XGBoost	0.810127	0.727273	0.825109
+
 3	SVM	0.797468	0.666667	0.849782
+
 
 #### Deployment:
 https://rashid-diabetes-prediction-xgboost.streamlit.app/ <- the Model deployed
@@ -51,11 +56,8 @@ Libraries: Scikit-learn, XGBoost, Pandas, Streamlit,
 Contributors: 
 Malaysia - City university - CyberJaya campous.
 
-
 The members of the Team:
 
-
-No. 	Name 	ID 
 1. 	NASR MOHAMED AHMED MONIB	202409010305
 2.	AKBAR RIYAD MOHAMED RASID	202409010654
 3.	Muntasir Alsadig Hamid Altahir	202409010773
