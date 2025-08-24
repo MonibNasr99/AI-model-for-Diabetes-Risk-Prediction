@@ -57,10 +57,16 @@ No. 	Name 	ID
 3.	Muntasir Alsadig Hamid Altahir	202409010773
 4.	Ahmed khalid abdelrahman ahmednour	202403010035
 5.	Mansoorbasha Abdulkarem Sadeq Noman	202409010644
+
+   
 LECTURER Name SIR NAZMIRUL IZZAD BIN NASSIR
+
 SUBJECT CODE: BIT4333
+
 SUBJECT NAME: INTRODUCTION TO MACHINE LEARNING
+
  
  	SUBMISSION DATE: 
+  
  28th of August 2025 
 
