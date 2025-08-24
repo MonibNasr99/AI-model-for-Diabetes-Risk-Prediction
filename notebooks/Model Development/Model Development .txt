@@ -1,0 +1,22 @@
+Model Development
+The dataset that we chose was already clean and there were no missing values, so when developing the model, we made the decision to use the algorithm the XGBoost algorithm, because is known for its high performance in medical prediction tasks. And we tested the module on other algorithms as well. Which were Logistic Regression, Random Forest and SVM. 
+Evaluation & Results
+First, we start trying to understand and explore our dataset to see what are the majority of our individuals are represented by:
+In the first box (top left) you can see the representation of the number of pregnancies the patient had. And hear we can see that most of our patients only had 1 to 2 pregnancies. And in the bottom middle box we can see the representation of age to see that most of our patients are in there early 20s. 
+And then we ran the 4 algorithms (XGBoost, Logistic Regression, Random Forest and SVM) on F1 test to see the which one is the best and we got the following results: 
+
+
+
+and we got the following readings: 
+Model Performance Comparison:
+	Model	Accuracy	F1 Score	ROC AUC
+0	Logistic Regression	0.835443	0.745098	0.887518
+1	Random Forest	0.797468	0.680000	0.862845
+2	XGBoost	0.810127	0.727273	0.825109
+3	SVM	0.797468	0.666667	0.849782
+
+
+
+
+
+And this is a graph to explain which variable effects the output the most. And we can see that the Glucose (sugar) and then Age. 
