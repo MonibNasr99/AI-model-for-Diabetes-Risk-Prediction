@@ -51,7 +51,9 @@ Libraries: Scikit-learn, XGBoost, Pandas, Streamlit,
 Contributors: 
 Malaysia - City university - CyberJaya campous.
 
+
 The members of the Team:
+
 
 No. 	Name 	ID 
 1. 	NASR MOHAMED AHMED MONIB	202409010305
@@ -68,7 +70,4 @@ SUBJECT CODE: BIT4333
 SUBJECT NAME: INTRODUCTION TO MACHINE LEARNING
 
  
- 	SUBMISSION DATE: 
-  
- 28th of August 2025 
-
+ 	SUBMISSION DATE:  28th of August 2025 
