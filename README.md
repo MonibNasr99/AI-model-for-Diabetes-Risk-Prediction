@@ -22,12 +22,13 @@ https://colab.research.google.com/drive/1vFRVU7enYHCP1qnsIXpSZpktLb0qU-e2?usp=sh
  
     Model	Accuracy	F1 Score	ROC AUC
  
-0	Logistic Regression	0.835443	0.745098	0.887518
-1	Random Forest	0.797468	0.680000	0.862845
+0 Model |	Logistic Regression | Accuracy:	0.835443  | F1 Score:	0.745098  | ROC AUC:	0.887518  |
 
-2	XGBoost	0.810127	0.727273	0.825109
+1 Model	| Random Forest  | Accuracy:	0.797468  | F1 Score:	0.680000  | ROC AUC:	0.862845  |
 
-3	SVM	0.797468	0.666667	0.849782
+2 Model | XGBoost  | Accuracy:	0.810127  | F1 Score:	0.727273  | ROC AUC:	0.825109  |
+
+3 Model | SVM  | Accuracy:	0.797468  | F1 Score:	0.666667  | ROC AUC:	0.849782  |
 
 
 #### Deployment:
