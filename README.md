@@ -67,25 +67,25 @@ https://rashid-diabetes-prediction-xgboost.streamlit.app/ <- Use this link to ac
 
 * Dataset:https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
-Libraries: Scikit-learn, XGBoost, Pandas, Streamlit,
+* Libraries: Scikit-learn, XGBoost, Pandas, Streamlit,
 
-Contributors: 
-Malaysia - City university - CyberJaya campous.
+* Contributors: Malaysia - City university - CyberJaya campous.
 
-The members of the Team:
+* The members of the Team:
 
-1. 	NASR MOHAMED AHMED MONIB	202409010305
-2.	AKBAR RIYAD MOHAMED RASID	202409010654
-3.	Muntasir Alsadig Hamid Altahir	202409010773
-4.	Ahmed khalid abdelrahman ahmednour	202403010035
-5.	Mansoorbasha Abdulkarem Sadeq Noman	202409010644
+| No. | Name                                | Student ID     |
+|-----|-------------------------------------|----------------|
+| 1   | NASR MOHAMED AHMED MONIB            | 202409010305   |
+| 2   | AKBAR RIYAD MOHAMED RASID           | 202409010654   |
+| 3   | Muntasir Alsadig Hamid Altahir      | 202409010773   |
+| 4   | Ahmed Khalid Abdelrahman Ahmednour  | 202403010035   |
+| 5   | Mansoorbasha Abdulkarem Sadeq Noman | 202409010644   |
 
    
-LECTURER Name SIR NAZMIRUL IZZAD BIN NASSIR
+* LECTURER Name SIR NAZMIRUL IZZAD BIN NASSIR
 
-SUBJECT CODE: BIT4333
+* SUBJECT CODE: BIT4333
 
-SUBJECT NAME: INTRODUCTION TO MACHINE LEARNING
+* SUBJECT NAME: INTRODUCTION TO MACHINE LEARNING
 
- 
- 	SUBMISSION DATE:  28th of August 2025 
+* SUBMISSION DATE:  28th of August 2025 
